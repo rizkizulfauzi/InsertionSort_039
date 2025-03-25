@@ -50,3 +50,13 @@ void insertionSort()
          arr[j +1] = temp;
     }
 }
+
+void display()
+{
+    cout << endl;
+    cout << " ===============================" << endl;
+    cout << " Total Pass = " << endl;
+    cout << " ===============================" << endl;
+    cout << "Element Array yang telah tersusun" << endl;
+    cout << "================================" << endl
+}
